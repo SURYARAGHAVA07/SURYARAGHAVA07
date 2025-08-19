@@ -2,23 +2,43 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZxa3Rmb2Fsb2I5cDJocmR5c3J1d2M3YzB0c2N4a3M2d2ZiZGw5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcUcWjY5zJ3cJ5Y8N/giphy.gif" alt="Waving Male Character" width="150" style="float:right; margin-left:20px;"/>
 </p>
 
+---
+
 # <p align="center" style="color:#00FF00">Hi 👋, I'm Y.S.S Raghava</p>
 
 ### <p align="center" style="color:#FF00FF">A Passionate Software Developer Crafting Innovative Solutions</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Android+Enthusiast;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG"/>
+  <a href="https://github.com/PremSaiBollamoni">
+    <img src="https://komarev.com/ghpvc/?username=SURYARAGHAVA07&label=Profile%20views&color=0e75b6&style=flat" alt="SURYARAGHAVA07">
+  </a>
+  <a href="https://github.com/SURYARAGHAVA07">
+    <img src="https://img.shields.io/github/followers/SURYARAGHAVA07?label=Followers" alt="PremSaiBollamoni">
+  </a>
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/SURYARAGHAVA07">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;ML%20%7C%20AI%20Enthusiast;Always%20learning%20new%20things;Kotlin%20%7C%20Firebase%20%7C%20Gemini%20API&center=true&width=400&height=45">
+  </a>
+</p>
+
+### <p align="center" style="color:#FF00FF">A Passionate Software Developer Crafting Innovative Solutions</p>
+
 
 ---
 
-<p>
-- 🔭 <b style="color:#FF4500">Currently working on</b>: <a href="https://github.com/suryaraghava07/mood-tracker">Mood-Tracker Application</a> – A mobile app to track and improve mental well-being.<br>
-- 🌱 <b style="color:#FF4500">Learning</b>: Advanced Android Jetpack, Spring Security, and Cloud-Native Development.<br>
-- 💬 <b style="color:#FF4500">Ask me about</b>: Android, Kotlin, Java, Flutter, or Spring Boot.<br>
-- 📫 <b style="color:#FF4500">Reach me at</b>: <a href="mailto:surryaraghava301204@gmail.com">surryaraghava301204@gmail.com</a><br>
-- ⚡ <b style="color:#FF4500">Fun fact</b>: I once built a chatbot that tells dad jokes on command! 😄
-</p>
+<pre>
+- 💻 Full Stack Web Developer with AI/ML Integration Skills
+- 🎓 B.Tech in Computer Science and Engineering – 2024
+- 🚀 Currently building: [Mood-Tracker App](https://github.com/Mood-Tracker-25/Mood_Tracker_App) – A Flutter app to track and improve mental well-being.
+- 🛠 Tech Stack: Kotlin, XML, Firebase, Gemini API
+- 📊 Experience with: Real-time Dashboards, Authentication, CSV Export
+- 🌱 Learning: Next.js, Deep Learning, Advanced Firebase Usage
+- 📄 Resume: <a href="https://drive.google.com/file/d/1kxRcStXd6EDeTKq5DSvPgf6Dww_bvglx/view?usp=sharing" target="_blank">Click here</a>
+</pre>
 
 ---
 
@@ -88,3 +108,22 @@
 </p>
 
 ---
+
+<hr>
+
+<table>
+<tr>
+  <td width="50%" valign="top">
+    <h2>Let’s Work on Your Project Together!</h2>
+    <p>If you have any questions about full-stack development, feel free to <a href="mailto:surryaraghava301204@gmail.com">contact me via email</a>.</p>
+    <p>You can reach out via <a href="www.linkedin.com/in/surya-raghava">LinkedIn</a> to collaborate or hire me for a freelance project involving AI/ML or Web Development.</p>
+  </td>
+  <td width="50%" valign="top">
+    <h2>It’s not perfect, is it?</h2>
+    <p><strong><a href="https://github.com/SURYARAGHAVA07"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a></strong></p>
+    <p>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.” – Elon Musk</p>
+  </td>
+</tr>
+</table>
+
+<hr>

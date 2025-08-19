@@ -24,9 +24,9 @@
 
 <h2 align="center">🤝 Connect with me</h2>
 <p align="center">
-  <a href="mailto:prem.0820.04@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/prem-sai-bollamoni-817a18348/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/PremSaiBollamoni"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:surryaraghava301204@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="www.linkedin.com/in/surya-raghava"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/SURYARAGHAVA07/"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -66,29 +66,25 @@
   <img src="https://img.shields.io/badge/-Figma-FF00FF?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,js,android,flutter,dart,spring,nodejs,tailwind,mysql,mongodb,git,firebase,figma&perline=10&theme=dracula" alt="Animated Skill Icons"/>
-</p>
-
 ---
 
-### <p align="center" style="color:#1E90FF">📊 GitHub Stats</p>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PremSaiBollamoni&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SURYARAGHAVA07&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
 </p>
 
 <h2 align="center">⚡ Top Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremSaiBollamoni&langs_count=8&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURYARAGHAVA07&langs_count=8&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
 ### <p align="center" style="color:#1E90FF">✨ Featured Projects</p>
 <p>
-- <b style="color:#FF4500"><a href="https://github.com/suryaraghava07/mood-tracker">Mood-Tracker</a></b>: A Flutter-based app to log and analyze moods with Firebase integration.<br>
-- <b style="color:#FF4500"><a href="https://github.com/suryaraghava07/healthcare-on-wheels">Healthcare on Wheels</a></b>: An Android app for rural healthcare access, built with Kotlin and Spring Boot.<br>
-- <b style="color:#FF4500"><a href="https://github.com/suryaraghava07/inventory-management">Inventory Management</a></b>: A web app for managing drone parts, using HTML, CSS, and JavaScript.
+- <b style="color:#FF4500"><a href="https://github.com/Mood-Tracker-25/Mood_Tracker_App">Mood-Tracker</a></b>: A Flutter-based app to log and analyze moods with Firebase integration.<br>
+- <b style="color:#FF4500"><a href="https://github.com/SURYARAGHAVA07/Health_Care_on_Wheels">Healthcare on Wheels</a></b>: An Android app for rural healthcare access, built with Kotlin and Spring Boot.<br>
+- <b style="color:#FF4500"><a href="https://github.com/SURYARAGHAVA07/DigitalDocs">Digital Docs</a></b>: An app that generates certificates with digital .
 </p>
 
 ---

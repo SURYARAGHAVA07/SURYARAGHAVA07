@@ -13,7 +13,7 @@
 ---
 
 ### <p align="center" style="color:#1E90FF">🌟 About Me</p>
-<p align="center">
+<p>
 - 🔭 <b style="color:#FF4500">Currently working on</b>: <a href="https://github.com/suryaraghava07/mood-tracker">Mood-Tracker Application</a> – A mobile app to track and improve mental well-being.<br>
 - 🌱 <b style="color:#FF4500">Learning</b>: Advanced Android Jetpack, Spring Security, and Cloud-Native Development.<br>
 - 💬 <b style="color:#FF4500">Ask me about</b>: Android, Kotlin, Java, Flutter, or Spring Boot.<br>

@@ -2,14 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZxa3Rmb2Fsb2I5cDJocmR5c3J1d2M3YzB0c2N4a3M2d2ZiZGw5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcUcWjY5zJ3cJ5Y8N/giphy.gif" alt="Waving Male Character" width="150" style="float:right; margin-left:20px;"/>
 </p>
 
-# <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PremSaiBollamoni&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
-</p>
-
-<h2 align="center">⚡ Top Languages</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremSaiBollamoni&langs_count=8&layout=compact&theme=radical" alt="Top Languages">
-</p></p>
+# <p align="center" style="color:#00FF00">Hi 👋, I'm Y.S.S Raghava</p>
 
 ### <p align="center" style="color:#FF00FF">A Passionate Software Developer Crafting Innovative Solutions</p>
 
@@ -99,7 +92,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=suryaraghava07.suryaraghava07&style=flat-square&color=FF4500" alt="Visitor Count"/>
-</p>

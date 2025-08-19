@@ -12,13 +12,21 @@
 
 ---
 
-### <p align="center" style="color:#1E90FF">🌟 About Me</p>
 <p>
 - 🔭 <b style="color:#FF4500">Currently working on</b>: <a href="https://github.com/suryaraghava07/mood-tracker">Mood-Tracker Application</a> – A mobile app to track and improve mental well-being.<br>
 - 🌱 <b style="color:#FF4500">Learning</b>: Advanced Android Jetpack, Spring Security, and Cloud-Native Development.<br>
 - 💬 <b style="color:#FF4500">Ask me about</b>: Android, Kotlin, Java, Flutter, or Spring Boot.<br>
 - 📫 <b style="color:#FF4500">Reach me at</b>: <a href="mailto:surryaraghava301204@gmail.com">surryaraghava301204@gmail.com</a><br>
 - ⚡ <b style="color:#FF4500">Fun fact</b>: I once built a chatbot that tells dad jokes on command! 😄
+</p>
+
+---
+
+<h2 align="center">🤝 Connect with me</h2>
+<p align="center">
+  <a href="mailto:prem.0820.04@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/prem-sai-bollamoni-817a18348/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/PremSaiBollamoni"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -64,34 +72,20 @@
 
 ---
 
-### <p align="center" style="color:#1E90FF">📊 My GitHub Stats</p>
+### <p align="center" style="color:#1E90FF">📊 GitHub Stats</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryaraghava07&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub Stats" width="420" style="display:inline-block; margin-right:20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaraghava07&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="350" style="display:inline-block;"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaraghava07&theme=synthwave&hide_border=true" alt="GitHub Streak" width="420"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suryaraghava07&theme=synthwave&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PremSaiBollamoni&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
 </p>
 
----
-
-### <p align="center" style="color:#1E90FF">🌐 Connect With Me</p>
+<h2 align="center">⚡ Top Languages</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/surya-raghava/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-00FF00?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:surryaraghava301204@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-FF4500?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremSaiBollamoni&langs_count=8&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
 ### <p align="center" style="color:#1E90FF">✨ Featured Projects</p>
-<p align="center">
+<p>
 - <b style="color:#FF4500"><a href="https://github.com/suryaraghava07/mood-tracker">Mood-Tracker</a></b>: A Flutter-based app to log and analyze moods with Firebase integration.<br>
 - <b style="color:#FF4500"><a href="https://github.com/suryaraghava07/healthcare-on-wheels">Healthcare on Wheels</a></b>: An Android app for rural healthcare access, built with Kotlin and Spring Boot.<br>
 - <b style="color:#FF4500"><a href="https://github.com/suryaraghava07/inventory-management">Inventory Management</a></b>: A web app for managing drone parts, using HTML, CSS, and JavaScript.

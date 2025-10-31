@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZxa3Rmb2Fsb2I5cDJocmR5c3J1d2M3YzB0c2N4a3M2d2ZiZGw5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcUcWjY5zJ3cJ5Y8N/giphy.gif" alt="Waving Male Character" width="150" style="float:right; margin-left:20px;"/>
+  <img src="./assets/wave.gif" alt="Waving Male Character" width="150" style="float:right; margin-left:20px;"/>
 </p>
 
 ---

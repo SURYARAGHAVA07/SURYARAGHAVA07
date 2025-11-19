@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/wave.gif" alt="Waving Male Character" width="150" style="float:right; margin-left:20px;"/>
-</p>
-
 ---
 
 # <p align="center" style="color:#00FF00">Hi 👋, I'm Y.S.S Raghava</p>
